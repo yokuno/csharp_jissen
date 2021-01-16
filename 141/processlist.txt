@@ -1,0 +1,3 @@
+﻿c:\Windows\System32\notepad.exe
+c:\Windows\System32\mspaint.exe
+c:\Windows\System32\notepad.exe
